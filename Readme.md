@@ -13,14 +13,15 @@
 	
 ## Demo
 ### Screenshots of the App	
-![Splash Screen](home.png)
-![Main Screen](main.png)
-![Navigation bae](nav.png)
-![Technical Event](tech.png)
-![Centeral Technical Event](ct.png)
-![Cultural Event](cult.png)
-![NCRTTM](ncttm.png)
-![Committees](comm.png)
-Developer:- <br />
+![Splash Screen](home.png)  <br />
+![Main Screen](main.png) <br />
+![Navigation bae](nav.png)  <br />
+![Technical Event](tech.png)  <br />
+![Centeral Technical Event](ct.png)  <br />
+![Cultural Event](cult.png)  <br />
+![NCRTTM](ncttm.png)  <br />
+![Committees](comm.png)  <br />
+
+##Developer:- <br />
 - Vimox S Shah(myself)
 - Akshay Bosamiya
