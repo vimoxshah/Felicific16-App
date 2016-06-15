@@ -13,14 +13,14 @@
 	
 ## Demo
 ### Screenshots of the App	
-	![Typical IR Task](home.png)
-	![Typical IR Task](main.png)
-	![Typical IR Task](nav.png)
-	![Typical IR Task](tech.png)
-	![Typical IR Task](ct.png)
-	![Typical IR Task](cult.png)
-	![Typical IR Task](ncttm.png)
-	![Typical IR Task](comm.png)
+![Splash Screen](home.png)
+![Main Screen](main.png)
+![Navigation bae](nav.png)
+![Technical Event](tech.png)
+![Centeral Technical Event](ct.png)
+![Cultural Event](cult.png)
+![NCRTTM](ncttm.png)
+![Committees](comm.png)
 Developer:- <br />
 - Vimox S Shah(myself)
 - Akshay Bosamiya
